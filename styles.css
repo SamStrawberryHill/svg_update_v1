@@ -72,6 +72,10 @@ main {
       main li:last-child {
         margin-right: 0;
       }
+.corgi {
+  height: 170px;
+  width: 170px;
+}
 
 footer {
   width: 100%;
@@ -79,3 +83,4 @@ footer {
   padding-bottom: 30px;
   color: #ba8058;
 }
+//Media Queries
