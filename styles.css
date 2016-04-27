@@ -45,7 +45,10 @@ header {
   header h1 {
     line-height: 1em;
   }
-
+#logo {
+  height: 140px;
+  width: 120px;
+}
 main {
   padding-top: 50px;
 }
