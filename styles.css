@@ -14,9 +14,6 @@ body {
   background: #fff;
   margin: 0 auto;
 }
-/*#logoText {
-  display: none;
-}*/
 
 p {
   max-width: 350px;
@@ -42,6 +39,10 @@ header {
     text-align: left;
   }
   header nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  #layer_1 {
     display: inline-block;
     margin-right: 20px;
   }
